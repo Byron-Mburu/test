@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 yes
 how are you
 im 
 no
 cul
+=======
+am fyn
+>>>>>>> reply
